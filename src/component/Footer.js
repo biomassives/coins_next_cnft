@@ -8,8 +8,8 @@ export default function Footer(){
                 textAlign: "center",
             }}
         >
-            Copyright © SBP. All rights reserved.
-            been778@gmail.com
+            Worldbridger One 2024
+             
         </div>
     )
 }
